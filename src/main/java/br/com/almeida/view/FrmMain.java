@@ -372,6 +372,7 @@ public class FrmMain extends javax.swing.JFrame {
 
             } else {
                 //atualizar
+                //Aqui será feita a chamada do controller para fazer a atualização do recurso
             }
         }
 
